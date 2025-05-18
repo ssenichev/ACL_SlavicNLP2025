@@ -33,12 +33,6 @@ ENV/
 .ipynb_checkpoints
 *.ipynb
 
-models/*.pt
-models/*.pth
-models/*.bin
-_processed_data/
-_input_data/
-
 *.log
 *.sqlite
 wandb/

@@ -1,6 +1,4 @@
-# Gradient Flush at Slavic NLP 2025 Task: Leveraging Slavic BERT for Persuasion Technique Classification
-
-This repository contains supplementary material for the paper *Gradient Flush at Slavic NLP 2025 Task: Leveraging Slavic BERT for Persuasion Technique Classification*.
+# ST-BERT at Slavic NLP 2025 Task: Leveraging Slavic BERT and Translation for Persuasion Techniques Classification
 
 ## Abstract
 

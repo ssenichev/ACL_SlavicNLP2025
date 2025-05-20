@@ -2,7 +2,7 @@
 
 ## Abstract
 
-The task of persuasion techniques detection is limited by several challenges, such as insufficent training data and ambiguity in labels. In this paper, we describe \textbf{Slavic Translation (ST) BERT}, a solution for the Slavic NLP 2025 Shared Task. It utilizes multilingual XLM-RoBERTa, that was trained on 100 various languages, and Slavic BERT, a model fine-tuned on four languages of the Slavic group. We suggest to augment the training dataset with related data from previous shared tasks, as well as some automatic translations from English and German. The resulting solutions are ranked among the top 3 for Russian in the Subtask 1 and for all languages in the Subtask 2.
+The task of persuasion techniques detection is limited by several challenges, such as insufficent training data and ambiguity in labels. In this paper, we describe Slavic Translation (ST) BERT, a solution for the Slavic NLP 2025 Shared Task. It utilizes multilingual XLM-RoBERTa, that was trained on 100 various languages, and Slavic BERT, a model fine-tuned on four languages of the Slavic group. We suggest to augment the training dataset with related data from previous shared tasks, as well as some automatic translations from English and German. The resulting solutions are ranked among the top 3 for Russian in the Subtask 1 and for all languages in the Subtask 2.
 
 ## Structure of code
 
